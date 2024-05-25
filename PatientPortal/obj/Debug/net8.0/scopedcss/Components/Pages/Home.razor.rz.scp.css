@@ -1,0 +1,58 @@
+body[b-s2sfjjkuzj] {
+    flex: 1;
+}
+
+
+
+
+/* styling headers and letters
+    namedStatus: named headers to know what is section is about
+    namedData: 
+*/
+.namedStatus[b-s2sfjjkuzj] {
+    color:darkmagenta;
+    font-size: 14px;
+    font-family: cursive;
+    text-align:start;
+}
+
+.namedBold-Data[b-s2sfjjkuzj] {
+    font: bold;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+
+
+/*
+   Setting up Home Page content organization
+
+
+*/
+
+.home-page[b-s2sfjjkuzj] {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: aquamarine;
+    width: 100%;
+    height: 100vh;
+}
+
+
+.leftSideContent[b-s2sfjjkuzj] {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.rightSideContent[b-s2sfjjkuzj] {
+    display: flex;
+    border-block: .5px solid;
+    
+    flex-direction: column;
+    width: 250px;
+    background-color: white;
+}
