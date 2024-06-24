@@ -1,5 +1,6 @@
 body[b-s2sfjjkuzj] {
-    flex: 1;
+    flex: 0;
+    background-color: blueviolet;
 }
 
 
@@ -32,27 +33,113 @@ body[b-s2sfjjkuzj] {
 */
 
 .home-page[b-s2sfjjkuzj] {
-    background-color: antiquewhite;
     display: flex;
-    justify-content: space-between;
     flex-direction: row;
-    background-color: aquamarine;
     width: 100%;
     height: 100vh;
+    
 }
 
 
 .leftSideContent[b-s2sfjjkuzj] {
     display: flex;
     flex-direction: column;
+    background-color: blueviolet; /* NEED TO DELETE THIS LATER */
+    width: 60%;
 }
 
 
 .rightSideContent[b-s2sfjjkuzj] {
     display: flex;
-    border-block: .5px solid;
-    
+    border-block: 1px solid;
     flex-direction: column;
-    width: 250px;
-    background-color: white;
+    width: 40%;
+    background-color:bisque;  /* NEED TO DELETE THIS AND FIX THIS*/
 }
+
+
+
+/* Top-boxes: 3 blocks element*/
+.boxes-content[b-s2sfjjkuzj] {
+
+    display:inline-flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+   
+}
+
+.block-element[b-s2sfjjkuzj] {
+    background-color: white;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 22vh;
+    height: 25vh;
+
+    /* Modifications for the elements inside */
+
+}
+
+/*       Top-boxes END         */
+
+
+
+
+/* Middle-boxes : 2 blocks elements*/
+
+.middleboxs-content[b-s2sfjjkuzj] {
+    display: inline-flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+
+
+    .middleboxs-content[b-s2sfjjkuzj]  .left-box {
+    background-color: white;
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 56.5vh;
+    height: 30vh;
+    
+    }
+
+    .middleboxs-content[b-s2sfjjkuzj]  .right-box {
+    background-color: white;
+    width: 22vh;
+    height: 30vh;
+    margin-top: 20px;
+    margin-left: 110px;
+    }
+
+/*    Middle-boxes: END              */
+
+
+
+
+/*    BOTTOM 2 BOXES   */
+.bottomboxes-content[b-s2sfjjkuzj] {
+    display: inline-flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+    
+    margin-top: 20px;
+}
+
+    .bottomboxes-content[b-s2sfjjkuzj]  .left-box {
+    background-color: white;
+    width: 43vh;
+    height:20vh;
+    }
+
+    .bottomboxes-content[b-s2sfjjkuzj]  .right-box {
+    background-color: white;
+    width: 43vh;
+    height:20vh;
+    }
+
+/*  BOTTOM 2 BOXES  END  */

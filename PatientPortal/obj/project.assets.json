@@ -4067,23 +4067,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tonyn\\.nuget\\packages\\": {},
+    "C:\\Users\\thuon\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\PatientPortal.csproj",
+      "projectUniqueName": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\PatientPortal.csproj",
       "projectName": "PatientPortal",
-      "projectPath": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\PatientPortal.csproj",
-      "packagesPath": "C:\\Users\\tonyn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\obj\\",
+      "projectPath": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\PatientPortal.csproj",
+      "packagesPath": "C:\\Users\\thuon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\tonyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\thuon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4105,6 +4105,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4141,7 +4146,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

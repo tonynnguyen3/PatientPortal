@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EMOC9GVQzfNuxILErCM8AFQTaUPO8+BiTutVMWSPv+o=",
+  "Hash": "XA14gHhbhLcLltmU2zDELRCFQ/O+XfDnkKAHl6hzAzM=",
   "Source": "PatientPortal",
   "BasePath": "_content/PatientPortal",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PatientPortal\\wwwroot",
       "Source": "PatientPortal",
-      "ContentRoot": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\wwwroot\\",
       "BasePath": "_content/PatientPortal",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PatientPortal.styles.css",
+      "Identity": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PatientPortal.styles.css",
       "SourceId": "PatientPortal",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PatientPortal",
       "RelativePath": "PatientPortal.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PatientPortal.styles.css"
+      "OriginalItemSpec": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PatientPortal.styles.css"
     },
     {
-      "Identity": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PatientPortal.bundle.scp.css",
+      "Identity": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PatientPortal.bundle.scp.css",
       "SourceId": "PatientPortal",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PatientPortal",
       "RelativePath": "PatientPortal.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PatientPortal.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PatientPortal.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\wwwroot\\app.css",
       "SourceId": "PatientPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\wwwroot\\",
       "BasePath": "_content/PatientPortal",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "PatientPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\wwwroot\\",
       "BasePath": "_content/PatientPortal",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "PatientPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\wwwroot\\",
       "BasePath": "_content/PatientPortal",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\wwwroot\\favicon.png",
       "SourceId": "PatientPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyn\\OneDrive\\Desktop\\Portfolio\\PatientPortal\\PatientPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\wwwroot\\",
       "BasePath": "_content/PatientPortal",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

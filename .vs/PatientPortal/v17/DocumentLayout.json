@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F52620-76E5-49FE-B6B3-BDC2FD83FF30}|PatientPortal\\PatientPortal.csproj|c:\\users\\thuon\\desktop\\c# workspace\\patientportal\\patientportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F52620-76E5-49FE-B6B3-BDC2FD83FF30}|PatientPortal\\PatientPortal.csproj|solutionrelative:patientportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F52620-76E5-49FE-B6B3-BDC2FD83FF30}|PatientPortal\\PatientPortal.csproj|c:\\users\\thuon\\desktop\\c# workspace\\patientportal\\patientportal\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F52620-76E5-49FE-B6B3-BDC2FD83FF30}|PatientPortal\\PatientPortal.csproj|solutionrelative:patientportal\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F52620-76E5-49FE-B6B3-BDC2FD83FF30}|PatientPortal\\PatientPortal.csproj|c:\\users\\thuon\\desktop\\c# workspace\\patientportal\\patientportal\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D8F52620-76E5-49FE-B6B3-BDC2FD83FF30}|PatientPortal\\PatientPortal.csproj|solutionrelative:patientportal\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F52620-76E5-49FE-B6B3-BDC2FD83FF30}|PatientPortal\\PatientPortal.csproj|c:\\users\\thuon\\desktop\\c# workspace\\patientportal\\patientportal\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8F52620-76E5-49FE-B6B3-BDC2FD83FF30}|PatientPortal\\PatientPortal.csproj|solutionrelative:patientportal\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\Program.cs",
+              "RelativeDocumentMoniker": "PatientPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\Program.cs",
+              "RelativeToolTip": "PatientPortal\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:05:55.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PatientPortal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PatientPortal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:05:53.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor.css",
+              "DocumentMoniker": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\Components\\Pages\\Home.razor.css",
+              "RelativeDocumentMoniker": "PatientPortal\\Components\\Pages\\Home.razor.css",
+              "ToolTip": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\Components\\Pages\\Home.razor.css",
+              "RelativeToolTip": "PatientPortal\\Components\\Pages\\Home.razor.css",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-24T02:48:38.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "PatientPortal\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\thuon\\Desktop\\C# Workspace\\PatientPortal\\PatientPortal\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "PatientPortal\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T02:48:24.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
